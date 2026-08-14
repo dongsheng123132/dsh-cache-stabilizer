@@ -1,5 +1,10 @@
 # dsh-cache-stabilizer
 
+[![CI](https://github.com/dongsheng123132/dsh-cache-stabilizer/actions/workflows/ci.yml/badge.svg)](https://github.com/dongsheng123132/dsh-cache-stabilizer/actions/workflows/ci.yml)
+[![MIT license](https://img.shields.io/github/license/dongsheng123132/dsh-cache-stabilizer)](LICENSE)
+[![Node.js 22+](https://img.shields.io/badge/Node.js-%E2%89%A522-339933?logo=nodedotjs&logoColor=white)](package.json)
+[![Awesome DSH Plugins](https://img.shields.io/badge/Awesome_DSH-verified_lab-0969da)](https://github.com/dongsheng123132/awesome-dsh-plugins#2origin-plugin-lab)
+
 An MIT-licensed DeepSeek Harness plugin that improves the chance of provider prompt-cache reuse without hiding stale state.
 
 It makes two semantics-preserving changes:
